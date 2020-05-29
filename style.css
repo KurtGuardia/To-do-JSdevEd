@@ -92,3 +92,7 @@ background: #ca4e2b;
 .todo-item{
 padding: 0 0.5rem ;
 }
+
+.fa-trash, .fa-check {
+    pointer-events: none;
+}
